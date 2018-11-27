@@ -1,3 +1,4 @@
 {
-  "name": "@types/ndn-js"
+  "name": "@types/ndn-js",
+  "version": "1.0.0"
 }
